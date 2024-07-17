@@ -12,7 +12,7 @@
 ul {
   list-style: none;
 }
-/* Navbar */
+
 .navbar {
   position: absolute;
   top: 0;
@@ -37,7 +37,7 @@ ul {
   color: red;
 }
 .nav-links li {
-  /* color: whitesmoke; */
+
   margin: 0 30px;
 }
 .nav-links a {
@@ -81,7 +81,7 @@ header {
   text-shadow: 20px 1px 30px rgb(114, 248, 4);
   font-size: 6vmin;
   color: rgb(0, 0, 0);
-  /* backdrop-filter: blur(4px); */
+
   opacity: 0;
   animation: slideCon 2.5s ease forwards;
 }
@@ -126,7 +126,7 @@ header {
   cursor: pointer;
   display: none;
 }
-/* Mobile device */
+
 section {
   width: 80%;
   margin: 80px auto;
@@ -150,7 +150,7 @@ section {
   align-items: center;
   justify-content: space-between;
   margin: 15px;
-  /* width: 100px; */
+
 }
 .col h4 {
   margin: 0;
@@ -164,10 +164,10 @@ section {
 }
 .col .ctn {
   margin: 10px;
-  /* padding: 10px; */
+
 }
 
-/* Explore */
+
 
 .explore {
   width: 100%;
@@ -202,7 +202,7 @@ section {
 .explore-content .ctn {
   margin-top: 40px;
 }
-/* Tour */
+
 .tour .ctn {
   margin: 10px auto;
 }
@@ -220,15 +220,14 @@ section {
 .tour .image-gallery {
   display: flex;
   flex-wrap: wrap;
-  /* width: 100%;
-  align-items: center; */
+
 }
 .tour .image-gallery img {
   max-width: 230px;
   margin: 10px;
 }
 
-/* footer */
+
 
 .footer {
   width: 100%;
